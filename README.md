@@ -1,5 +1,8 @@
 # copraML AppPrototyper
+
 Build App Prototypes using the Power of Deep Learning Based AI
+
+![Winning hack at Hack2Innovate AI Hackathon NVIDIA challenge](https://twitter.com/psbots/status/934850946244341760)
 
 ![screen0](sc0.png)
 
